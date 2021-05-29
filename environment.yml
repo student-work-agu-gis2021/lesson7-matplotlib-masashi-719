@@ -1,0 +1,21 @@
+name: autogis-environment
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - matplotlib
+  - geopandas
+  - geojson
+  - pysal
+  - mapclassify
+  - osmnx
+  - pyrosm
+  - geopy
+  - geojson
+  - rasterio
+  - contextily
+  - folium
+  - mplleaflet
+  - bokeh
